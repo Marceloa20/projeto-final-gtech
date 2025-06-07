@@ -1,0 +1,63 @@
+section {
+    background-color: #F5F5F5;
+}
+
+.containerHeader {
+    width: 1440px;
+    height: 192px;
+    background-color: #fff;
+}
+
+.inputSearch {
+    width: 559px;
+    height: 60px;
+    border-radius: 8px;
+    background-color: #cccccc;
+    color: #000;
+    opacity: 50%;
+}
+
+.linkHeader {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: .75px;
+    text-decoration: underline solid;
+    color: #474747;
+}
+
+.btnHeader {
+    width: 114px;
+    height: 40px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: .75px;
+    color: #fff;    
+}
+
+.carHeader {
+    width: 24px;
+    cursor: pointer;
+}
+
+.linksHeader {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: .75px;
+    color: #474747;
+    border: 3px solid #fff;
+    transition: .4s;
+}
+
+.linksHeader:hover {
+    font-weight: 700;
+    border-bottom: 3px solid #c92071;
+    color: #c92071;
+}
+
+.menu-container {
+    margin-left: 6.2rem;
+}
